@@ -6,7 +6,7 @@
 
 ## **Chapter1: 노드 초기화 및 실행 (`cmd/geth`)**
 
-- [ ] **Day 1:** [`cmd/geth/main.go`에서 `main` 함수의 역할과 초기화 순서 분석](./notes/chapter1/day1-main-function.md)
+- [ ] **Day 1:** [`cmd/geth/main.go`에서 `main` 함수의 역할과 초기화 순서 분석](./notes/chapter1/1.main-function.md)
 - [ ] **Day 2:** `cli.Context` 활용한 플래그 파싱 분석 (`cmd/geth/main.go`)
 - [ ] **Day 3:** 주요 함수 호출 흐름과 `makeFullNode` 호출 과정 이해
 - [ ] **Day 4:** `internal/flags/flags.go`에서 주요 플래그 분석 (`--syncmode`, `--datadir` 등)
